@@ -1,1 +1,1 @@
-# DZ
+# DZ Django ekatalog
